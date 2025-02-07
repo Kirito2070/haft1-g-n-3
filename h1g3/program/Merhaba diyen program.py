@@ -1,0 +1,6 @@
+print("Merhaba. \n Kumarhaneye hoş geldiniz..\n")
+asd=input("Lütfen gizlibet pashabet servis adınızı giriniz:")
+print("OOO big boss gelmiş kaldır kolları oynayalım!!"+asd)
+print("Nasılsın big boss "+asd+"?")
+input()
+ad = input("Ne lazım?")
